@@ -31,3 +31,6 @@ git remote add origin git@github.com:youranjianmuchang/courses07.git
 ````
 git push -u origin master
 ````
+7. 推送成功后刷新远程仓库的页面后，点击settings
+   
+    ![点击settings](/images/3.jpg)
